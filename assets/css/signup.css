@@ -1,0 +1,61 @@
+
+
+  
+  
+  h1 {
+    text-align: center;
+    text-transform: capitalize;
+  }
+  
+  .signup-form form .form-group{
+    margin: 10px;
+  }
+  
+  .form-group input{
+    padding: 5px 7px;
+    width: 100%;
+  }
+  
+  .form-group button {
+    background-color: rgba(255, 255, 255, 0.8);
+    color: #fff;
+    padding: 10px 0px;
+    font-size: 20px;
+    width: 100%;
+  }
+  
+  .form-group button:hover {
+    background-color: rgba(0, 0, 0, 0.9);
+  }
+
+  .about {
+    background-color: #e4e4e4;
+    padding: 200px 0;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+  }
+  
+  .about-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .about-image {
+    width: 50%;
+    max-width: 500px;
+    height: auto;
+    margin-right: 50px;
+  }
+  
+  .about-text {
+    width: 50%;
+  }
+
+  .d-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
